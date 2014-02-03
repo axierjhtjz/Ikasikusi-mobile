@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene::startDiscovering():GameScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_layers-&gt;count()">
+            </PersistentString>
+            <PersistentString
+               value = "((float)m_time / (float)m_layers-&gt;count())">
+            </PersistentString>
+            <PersistentString
+               value = "(100.0f / ((float)m_layers-&gt;count() * ((float)m_time / (float)(m_columns * m_rows)) ">
+            </PersistentString>
+            <PersistentString
+               value = "((float)m_layers-&gt;count() * ((float)m_time / (float)(m_columns * m_rows)))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene::finishLoading():GameScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(m_time / (m_columns * m_rows))">
+            </PersistentString>
+            <PersistentString
+               value = "(m_columns * m_rows)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::init():GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(i % 2 == 0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::startDiscovering():GameLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_layer-&gt;count()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameLayer::finishLoading():GameLayer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameScene::init():GameScene.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
